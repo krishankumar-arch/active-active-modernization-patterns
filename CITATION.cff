@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this architectural framework or the research within, please cite it using the following metadata."
+authors:
+  - family-names: Kumar
+    given-names: Krishan
+title: "Active-Active Data Replication Architectures for Zero-Downtime Enterprise Modernization"
+version: 1.0.0
+date-released: 2025-05-10
+url: "https://github.com/krishankumar-arch/active-active-modernization-patterns"
+keywords:
+  - Enterprise Architecture
+  - Legacy Modernization
+  - Active-Active Replication
+  - AWS DMS
+  - Qlik Replicate
+  - Mainframe Transformation
+  - Zero-Downtime
+  - Data Integrity
+repository-code: "https://github.com/krishankumar-arch/active-active-modernization-patterns"
+abstract: >-
+  A strategic framework for mission-critical continuity during legacy-to-cloud 
+  transformations in the Finance, Healthcare, and Insurance industries. 
+  This research addresses the 'Modernization Trap' by utilizing resilient 
+  CDC-driven pipelines for multi-year system coexistence.
